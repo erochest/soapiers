@@ -5,3 +5,9 @@ authors = ["Eric Rochester <erochest@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+reqwest = "0.9.10"
+uri = "0.3.0"
+xml-rs = "0.8.0"
+
+[dev-dependencies]
+spectral = "0.6.0"
